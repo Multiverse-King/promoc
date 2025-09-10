@@ -13,7 +13,7 @@ Create a `.env` file in your project root with these variables:
 
 ```bash
 VITE_SUPABASE_URL=https://your-project-ref.supabase.co
-VITE_SUPABASE_ANON_KEY=your-anon-key
+VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imdra2ZsbXhteWZ3eW1raWVrand1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTcwODg0ODcsImV4cCI6MjA3MjY2NDQ4N30.EfLz0BG3r2H8ttasJxwjtAi6BhgOm5hF20NSWX3Iy2o
 ```
 
 Get these values from your Supabase project dashboard:
